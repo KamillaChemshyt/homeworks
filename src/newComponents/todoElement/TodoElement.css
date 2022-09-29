@@ -1,0 +1,78 @@
+.element{
+    margin: 15px;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}    
+
+.elemContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.addElement{
+    width: 30px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.add{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 25px;
+}
+
+
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.buttonFilter{
+    width: 100px;
+    height: 35px;
+    cursor: pointer;
+    background-color: rgb(247, 241, 241);
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(210, 208, 208);
+}
+
+
+
+
+.selects {
+    width: 100px;
+    height: 50px;
+    margin: 14px;
+}
+
+
+
+.dataButtons{
+    width: 150px;
+    height: 40px;
+    border: 1px solid rgb(15, 15, 15);
+    border-radius: 5px;
+}
+
+.dButtons{
+    margin: 15px;
+    padding: 10px;
+}
+
+.buttonsDate{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
