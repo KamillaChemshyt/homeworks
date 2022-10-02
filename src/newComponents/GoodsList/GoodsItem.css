@@ -1,0 +1,13 @@
+.gridContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #F2F2F2;
+    align-items: center;
+    min-height: 50px;
+}
+
+.loader{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,10 @@
+.dashboardContent{
+    display: flex;
+    margin: 10px;
+}
+
+.dashboardButtons{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
